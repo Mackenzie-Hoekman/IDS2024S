@@ -10,7 +10,7 @@
 **Level:** Undergraduate - Freshman  
 **Position Title:** Student  
 **Course Webpage:** [Amir's Homepage](https://www.cdslab.org/IDS2024S/)  
-**Photo:** ![a photo of Mackenzie](20231129_173905~2)
+**Photo:** ![a photo of Mackenzie](20231129_173905~2.jpg)
 
 
 
