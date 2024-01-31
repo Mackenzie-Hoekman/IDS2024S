@@ -16,3 +16,7 @@ This repository contains my homework, quizzes, and virtually every effort that I
 **[Homework](hw):** This directory contains all my homework submissions, each of which is a folder properly named with the homework number, containing the homework submission.  
 **[Quiz](quiz):** This directory contains all my quiz submissions, each of which is a folder properly named with quiz number, containing the quiz submission.  
 **[Exam](exam):** This directory contains all my exam submissions, each of which is a folder properly named with exam name or number, containing the exam submission.  
+  
+For questions and troubleshooting, please contact:  
+Mackenzie Hoekman  
+mrh3987@mavs.uta.edu  
