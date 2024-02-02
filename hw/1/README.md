@@ -11,3 +11,8 @@ b. git status
 c. git add --all  
 d. git commit -m"latest build"  
 e. git push --all  
+  
+##### Bonus Points:
+1. https://mackenzie-hoekman.github.io/IDS2024S/
+2. "https" means 
+3. A relative path allows a link to other files and folders
