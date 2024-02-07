@@ -9,7 +9,7 @@
 **Level:** Undergraduate - Freshman  
 **Position Title:** Student  
 **Course Webpage:** [Amir's Homepage](https://www.cdslab.org/IDS2024S/)  
-**Photo:** ![a photo of Mackenzie](20231129_173905~2.jpg)  
+**Photo:** ![photo of Mackenzie](20231129_173905~2.jpg)  
 
 ## Description of the project’s content
 This repository contains my homework, quizzes, and virtually every effort that I have made for DATA1301. The structure of the project is the following:  
@@ -25,4 +25,6 @@ This repository contains my homework, quizzes, and virtually every effort that I
     
 For questions and troubleshooting, please contact:  
 Mackenzie Hoekman  
-mrh3987@mavs.uta.edu  
+mrh3987@mavs.uta.edu 
+
+This is message from laptom cammand line.
