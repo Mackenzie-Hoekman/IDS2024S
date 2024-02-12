@@ -2,7 +2,7 @@
 #### *2/12/2024*
 2. .md means "Mark Down", we use this so we can create README files in the Markdown language which is well-known and easy to use.  
 3. No  
-4. Yes, all projects get a .git  
+4. Yes
 5. a .git folder will store the edit history of that new project. 
 6. cd takes you to a specific folder location
 7. ls -a shows you all of the files and folders in a certain location including hidden ones.  
@@ -74,8 +74,6 @@ $ git status
 On branch master  
 nothing to commit, working tree clean  
 22. 13. This command force removed(-rf) the testdir that we created and changed the directory back to the home directory. 
-
-
- 
+  
 23. A relative path is one that uses . or .. to move the user forward or backward within a repository and is more appropriate for our projects because if the code is uploaded or used somewhere else it will continue to work. An absolute file path is one that gives the exact names and locations of a file or a direct link and would not work if uploaded somewhere else.  
 24. git help -a  
