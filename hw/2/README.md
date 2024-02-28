@@ -1,5 +1,5 @@
 ## **Homework 2**
-1. Fortran(50s), Algol 58(50s), Lisp(50s), Basic(60s), C (70s), sh(70s), c++(80s) Fortran 90(90s), Java(90s), Python(90s), Javascript(90s), C#(2000s)
+1. Fortran(50s), Algol 58(50s), Lisp(50s), Basic(60s), C (70s), sh(70s), c++(80s) Fortran 90(90s), Java(90s), Python(90s), Javascript(90s), C#(2000s)  
 2. Electronic Numerical Integrator And Computer  
 3. The base functions of the computer is run on an on/off system so it could only work with integers  
 4. RAM  
@@ -22,4 +22,8 @@
 21. Fetch, decode, execute  
 22. Yes, because a slower CPU cycle could be running more efficiently and concurrently  
 23. Memory access speed because the memory can only be accessed so quickly based on the number and efficiency of the cores  
-24. 
+24. Denard Scaling makes devices smaller(same as MOSFET scaling), and Moores adds more switches.  
+25. 1. 64 grains 2. 1,150 grains 3. 0.16 pounds  
+26. 1. 9.22E18 grains 2. 9.22E18 grains 3. 1.32E15 pounds 4. 1429 years
+27.  infinite random access memory, conditional execution, and some form of repeated execution  
+28.
