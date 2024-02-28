@@ -10,7 +10,7 @@
 9. the 70's  
 10. a computer that had to be rewired to perform a new task  
 11. Calculator  
-12. Declarative simply declares a statement, whereas an imperative gives a command or task, often used in code to create or define something  
+12. A declarative statement simply states something, whereas an imperative gives a command or task, often used in code to create or define something  
 13. a. declarative b. declarative c. imperative d. imperative e. imperative  
 14. math  
 15. ENIAC  
@@ -28,6 +28,6 @@
 27. C++ and ABC  
 28. Logarthithm can be used to find the exponent needed to reach a larger number as the base number is the base of the log and the large number found is the number in the parenthesizes. It could be used to find the number of days a cell has doubled if you know the starting and ending amounts.  
 29. S=(33/2)(34) This is the arithmetic pattern sum where the two rows are added and divided. 
-30. Magnetic tapes last longer  
+30. Magnetic tapes last longer, hard disks last 1 or 2 decades but magnetic tapes last many decades. 
 31. FERMIAC  
-32. S=(10^1)^100  
+32. ?
