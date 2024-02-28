@@ -1,5 +1,5 @@
 ## **Homework 2**
-1.   
+1. Fortran(50s), Algol 58(50s), Lisp(50s), Basic(60s), C (70s), sh(70s), c++(80s) Fortran 90(90s), Java(90s), Python(90s), Javascript(90s), C#(2000s)
 2. Electronic Numerical Integrator And Computer  
 3. The base functions of the computer is run on an on/off system so it could only work with integers  
 4. RAM  
