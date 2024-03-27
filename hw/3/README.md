@@ -5,7 +5,7 @@
 5. If A and B is true, then C is true
 6. ![photo of question 11](20240327_152145.jpg)
 7. ![photo of question 11](20240325_180917.jpg)
-8. 
+8. ![photo of question 11](20240327_153835.jpg)
 9.
 10. ![photo of question 10](20240327_151719.jpg)
 11. ![photo of question 11](20240325_191224.jpg)  
