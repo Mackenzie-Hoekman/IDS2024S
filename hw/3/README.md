@@ -5,15 +5,9 @@
 5. If A and B is true, then C is true
 6. ff
 7. done
+11.  ![photo of question 11](20240325_191224.jpg)  
 
 
-
-
-
-
-
-
-If the store has been broken into, the person leaving has stolen items will not be truthful.
 Vin day 1
 Vin day 2
 truth table?
