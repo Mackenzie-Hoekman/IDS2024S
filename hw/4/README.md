@@ -1,5 +1,5 @@
 1. ![photo of question](HW4-Q1.jpg)
-2. ![photo of question](HW4-Q2.jpg)  
+2. ![photo of question](HW4-Q2new.jpg)  
 3. ![photo of question](HW4-Q3.jpg)  
 4. ![photo of question](HW4-Distrutivity.jpg)   
 5. ![photo of question](HW3-Duality.jpg)  
