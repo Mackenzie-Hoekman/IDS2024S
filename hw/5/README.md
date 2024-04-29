@@ -6,7 +6,7 @@
 6. Colum 1: qualitative, categorical, discrete, ordered  Colum 2: Quantitative, Numerical, Discrete, Ordered   Colum 3: Qualitative, Categorical, Discrete, Unordered   Colum 4: Qualitative, Categorical, Discrete, Unordered  Colum 5: Quantitative, Numerical, Continuous, Ordered
 7. 
 8.    
-9. Chart e
+9. All of them are valid. As long as it is a grid data can be placed on it and viewed. 
 10. temperature
 11. Heat, ColorBrewer Blues, Okabe Ito, Blue-Red
 12. Does not specificy density of what, no units on density, no tittle, and the 0s are not at the same point
