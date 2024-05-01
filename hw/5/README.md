@@ -17,5 +17,5 @@
 17. insert pic 
 18. Frequnist, bayesian, classical, propensity
 19. a frog and a horse head
-20. 
+20. You move the bottom left match from the 8 to make it a 9 and add it to the 0 to make it an 8
 21. Extra credit from removed question #18 ![Excel file](HW5-Q18.xlsx) 
