@@ -19,5 +19,5 @@
 17. Deductive(The lamp is on so the bulb is hot, the lamp is off so the bulb is cold) and plausible(The bulb is hot so the lamp is likely on, but it could be off now but was recently on)  
 18. If two Boolean propositions are equal then it means they hold the same truth statement and have the same result  
 19. ![photo of question](F-Q19.jpg)  
-20. No  
-21.   
+20. No
+21. S = 1632, you can use the arithmatic summation equation to find the answer. (n1+n33)((n-1)/2) = S    (3+99)(32/2)=S
